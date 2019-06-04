@@ -1,13 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 3, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Worked on Skillcrush 102 - Introduction to JavaScript & Lambda School's JavaScript pre-course work
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Worked on Skillcrush's LOLCat Clock Logical Statements and Flowcharts. Also worked on Lambda School's JavaScript Assignment 2: Math, Properties, Methods, and Global Objects video & quiz. Continued working on FreeCodeCamp's Responsive Web Design certification.
+
+**Links(s) to work**: 
+1. Lambda Quiz: https://repl.it/student/submissions/6982435 - Passed all tests successfully! :D
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
