@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 3, 2019
+### Day 1: June 3, 2019 - Monday
 
 
 **Today's Progress**: Worked on Skillcrush 102 - Introduction to JavaScript & Lambda School's JavaScript pre-course work
@@ -9,16 +9,19 @@
 
 **Links(s) to work**: 
 1. Lambda Quiz: https://repl.it/student/submissions/6982435 - Passed all tests successfully! :D
+2. FreeCodeCamp Profile: https://www.freecodecamp.org/seestephsay
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: June 4, 2019 - Tuesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Worked on Skillcrush 102 - Introduction to JavaScript & FreeCodeCamp's Responsive Web Design Certification. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Skillcrush was focusing on Pseudocode today. I was already writing in pseudocode when we were supposed to just be writing logical statements in plain text, but now that we are supposed to officially be writing in pseudocode, it's like I'm way overthinking it, and I keep messing up. Then again, I'm running on just a few hours of sleep, and I'm struggling just to stay awake, let alone learn new things, haha. 
+
+**Link(s) to work**: 
+1. FreeCodeCamp Profile: https://www.freecodecamp.org/seestephsay
+
 
 
 ### Day 1: June 27, Monday
