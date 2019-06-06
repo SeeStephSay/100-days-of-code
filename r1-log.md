@@ -9,3 +9,6 @@ Started a LOLCatClock logic flowchart. Continued Lambda School JavaScript precou
 
 ### R1D2
 Practiced writing pseudocode for various scenarios. Worked on FreeCodeCamp Responsive Web Development Certification. Bought Skillcrush's brand-spankin'-new React.js course today! :D
+
+## R1D3
+Practiced translating flowcharts into pseudocode, and back again in Skillcrush 102 - Intro to JavaScript. 
